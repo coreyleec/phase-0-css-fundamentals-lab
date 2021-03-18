@@ -3,3 +3,61 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+#featured-property{
+  text-align: center;
+}
+
+p{
+  max-width: 750px;
+  margin:0 auto;
+}
+
+.crumb ol{
+  list-style-type: none;
+}
+  
+.crumb {
+  display: inline-block;
+  background: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#left {
+  float: left;
+  width: 25%;
+  background-color:red;
+  text-align: center;
+}
+#mid-left{
+  float: left;
+  width: 25%;
+  background-color:red;
+  text-align: center;
+}
+#mid-right{
+  float: left;
+  width: 25%;
+  background-color:red;
+  text-align: center;
+}
+  #right{
+  float: left;
+  width: 25%;
+  background-color:red;
+  text-align: center;
+}  
+  
+
+
+
+
